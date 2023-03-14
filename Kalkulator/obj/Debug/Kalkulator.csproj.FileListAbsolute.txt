@@ -1,0 +1,8 @@
+D:\szkola\Projektowanie oprogramowań\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\szkola\Projektowanie oprogramowań\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\szkola\Projektowanie oprogramowań\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\szkola\Projektowanie oprogramowań\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\szkola\Projektowanie oprogramowań\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\szkola\Projektowanie oprogramowań\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\szkola\Projektowanie oprogramowań\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\szkola\Projektowanie oprogramowań\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
